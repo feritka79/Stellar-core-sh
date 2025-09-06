@@ -24,6 +24,7 @@ This repository contains a **bash script** to quickly set up a **Stellar Core no
 - sudo privileges
 - Internet access
 - Basic terminal familiarity
+-**Hardware Requirements:** Please check the official [Stellar documentation prerequisites](https://developers.stellar.org/docs/validators/admin-guide/prerequisites) for up-to-date hardware and system requirements.
 
 
 ## Installation
