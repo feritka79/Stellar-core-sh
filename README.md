@@ -35,7 +35,7 @@ This repository contains a **bash script** to quickly set up a **Stellar Core no
 1. **Download the script:**
 
 ```bash
-wget https://github.com/<your-repo>/stellar-core-testnet.sh
+wget https://github.com/feritka79/Stellar-core-sh/blob/master/stellar-core-testnet.sh
 chmod +x stellar-core-testnet.sh
 ```
 ````
