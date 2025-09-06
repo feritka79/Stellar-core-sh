@@ -1,11 +1,9 @@
-````markdown
 # Stellar Core Testnet Setup
 
 This repository contains a **bash script** to quickly set up a **Stellar Core node** on the **Testnet**.
 
 > Script filename: `stellar-core-testnet.sh`
 
----
 
 ## Features
 
@@ -19,7 +17,6 @@ This repository contains a **bash script** to quickly set up a **Stellar Core no
   - `core-log` → tail the last 30 lines of Stellar Core log
   - `core-live` → query the node's current info via HTTP
 
----
 
 ## Prerequisites
 
@@ -28,8 +25,6 @@ This repository contains a **bash script** to quickly set up a **Stellar Core no
 - Internet access
 - Basic terminal familiarity
 
----
-````
 
 ## Installation
 
