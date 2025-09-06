@@ -20,11 +20,11 @@ This repository contains a **bash script** to quickly set up a **Stellar Core no
 
 ## Prerequisites
 
+- **Hardware Requirements:** Please check the official [Stellar documentation prerequisites](https://developers.stellar.org/docs/validators/admin-guide/prerequisites) for up-to-date hardware and system requirements.
 - Linux server (Ubuntu recommended)
 - sudo privileges
 - Internet access
 - Basic terminal familiarity
-- **Hardware Requirements:** Please check the official [Stellar documentation prerequisites](https://developers.stellar.org/docs/validators/admin-guide/prerequisites) for up-to-date hardware and system requirements.
 
 
 ## Installation
